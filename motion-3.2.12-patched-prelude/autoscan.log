@@ -1,0 +1,336 @@
+autoscan: warning: missing AC_CHECK_FUNCS([bzero]) wanted by: 
+	track.c:168
+	track.c:326
+autoscan: warning: missing AC_CHECK_FUNCS([dup2]) wanted by: 
+	motion.c:2006
+	motion.c:2013
+	motion.c:2014
+autoscan: warning: missing AC_CHECK_FUNCS([gethostbyname]) wanted by: 
+	netcam_ftp.c:391
+autoscan: warning: missing AC_CHECK_FUNCS([gettimeofday]) wanted by: 
+	webcam.c:242
+	netcam.c:1267
+	netcam.c:1353
+	netcam.c:1478
+	video2.c:749
+	netcam_jpeg.c:278
+	motion.c:990
+	motion.c:1158
+	motion.c:1865
+autoscan: warning: missing AC_CHECK_FUNCS([localtime_r]) wanted by: 
+	motion.c:407
+	motion.c:554
+	motion.c:1018
+	motion.c:1067
+	motion.c:1226
+autoscan: warning: missing AC_CHECK_FUNCS([memchr]) wanted by: 
+	netcam.c:1132
+autoscan: warning: missing AC_CHECK_FUNCS([memmove]) wanted by: 
+	netcam_ftp.c:158
+	netcam.c:278
+	netcam.c:1222
+autoscan: warning: missing AC_CHECK_FUNCS([memset]) wanted by: 
+	webcam.c:45
+	webcam.c:217
+	netcam_ftp.c:40
+	netcam_ftp.c:389
+	netcam_ftp.c:527
+	video_common.c:335
+	video_common.c:336
+	video_common.c:373
+	video_common.c:427
+	video_common.c:428
+	video_common.c:429
+	video_common.c:732
+	netcam.c:170
+	netcam.c:900
+	netcam.c:1536
+	netcam.c:1758
+	netcam.c:2276
+	netcam.c:2286
+	netcam.c:2297
+	netcam.c:2301
+	netcam.c:2305
+	video2.c:200
+	video2.c:231
+	video2.c:264
+	video2.c:273
+	video2.c:314
+	video2.c:393
+	video2.c:412
+	video2.c:440
+	video2.c:461
+	video2.c:489
+	video2.c:516
+	video2.c:543
+	video2.c:576
+	video2.c:604
+	video2.c:820
+	motion.c:127
+	motion.c:234
+	motion.c:592
+	motion.c:627
+	motion.c:747
+	motion.c:748
+	motion.c:749
+	motion.c:1080
+	motion.c:1227
+	motion.c:1830
+	motion.c:1831
+	video.c:153
+	video.c:169
+	video.c:369
+	video.c:388
+	ffmpeg.c:335
+	webhttpd.c:2277
+	webhttpd.c:2328
+	event.c:346
+	event.c:347
+	alg.c:367
+	alg.c:425
+	alg.c:440
+	alg.c:502
+	alg.c:517
+	alg.c:561
+	alg.c:567
+	alg.c:598
+	alg.c:606
+	alg.c:735
+	alg.c:740
+	alg.c:1128
+	picture.c:640
+	video_freebsd.c:127
+	video_freebsd.c:128
+	video_freebsd.c:720
+	video_freebsd.c:1153
+autoscan: warning: missing AC_CHECK_FUNCS([mkdir]) wanted by: 
+	motion.c:2569
+autoscan: warning: missing AC_CHECK_FUNCS([munmap]) wanted by: 
+	video_common.c:601
+	video2.c:917
+	video_freebsd.c:1012
+autoscan: warning: missing AC_CHECK_FUNCS([regcomp]) wanted by: 
+	netcam.c:178
+autoscan: warning: missing AC_CHECK_FUNCS([select]) wanted by: 
+	webcam.c:366
+	netcam_ftp.c:702
+	netcam.c:947
+	netcam.c:2040
+	webhttpd.c:2249
+autoscan: warning: missing AC_CHECK_FUNCS([socket]) wanted by: 
+	webcam.c:40
+	netcam_ftp.c:414
+	netcam_ftp.c:528
+	netcam.c:831
+	netcam.c:842
+	webhttpd.c:2284
+autoscan: warning: missing AC_CHECK_FUNCS([strcasecmp]) wanted by: 
+	motion.c:1717
+	motion.c:1721
+	motion.c:1727
+	motion.c:1732
+	motion.c:1737
+	motion.c:1742
+	motion.c:1805
+	motion.c:1807
+	motion.c:1809
+	motion.c:1811
+	motion.c:1816
+	motion.c:1818
+	webhttpd.c:445
+	webhttpd.c:545
+	webhttpd.c:685
+	conf.c:1768
+	conf.c:1768
+autoscan: warning: missing AC_CHECK_FUNCS([strchr]) wanted by: 
+	netcam.c:1984
+	netcam_wget.c:250
+	netcam_wget.c:326
+	motion.c:1655
+	motion.c:2561
+	motion.c:2563
+	motion.c:2577
+	ffmpeg.c:82
+autoscan: warning: missing AC_CHECK_FUNCS([strdup]) wanted by: 
+	netcam.c:651
+	netcam.c:1985
+	netcam.c:1989
+	netcam_wget.c:178
+	motion.c:569
+	motion.c:2566
+	webhttpd.c:356
+	webhttpd.c:379
+	webhttpd.c:485
+	webhttpd.c:491
+	webhttpd.c:494
+	webhttpd.c:498
+	webhttpd.c:502
+	webhttpd.c:506
+autoscan: warning: missing AC_CHECK_FUNCS([strerror]) wanted by: 
+	video2.c:626
+autoscan: warning: missing AC_CHECK_FUNCS([strncasecmp]) wanted by: 
+	conf.c:1418
+autoscan: warning: missing AC_CHECK_FUNCS([strstr]) wanted by: 
+	draw.c:1136
+	draw.c:1144
+	netcam.c:471
+	netcam.c:643
+	webhttpd.c:247
+	webhttpd.c:257
+	webhttpd.c:557
+	webhttpd.c:559
+	webhttpd.c:708
+	webhttpd.c:710
+	webhttpd.c:1443
+	webhttpd.c:2131
+	webhttpd.c:2183
+	webhttpd.c:2187
+autoscan: warning: missing AC_CHECK_FUNCS([uname]) wanted by: 
+	video.c:427
+autoscan: warning: missing AC_CHECK_HEADERS([arpa/inet.h]) wanted by: 
+	webcam.c:24
+	webhttpd.c:15
+autoscan: warning: missing AC_CHECK_HEADERS([limits.h]) wanted by: 
+	motion.h:31
+autoscan: warning: missing AC_CHECK_HEADERS([netdb.h]) wanted by: 
+	netcam_ftp.c:14
+	netcam.c:42
+	webhttpd.c:16
+autoscan: warning: missing AC_CHECK_HEADERS([netinet/in.h]) wanted by: 
+	webcam.c:23
+	netcam_ftp.c:17
+	netcam.c:43
+	webhttpd.c:14
+autoscan: warning: missing AC_CHECK_HEADERS([stddef.h]) wanted by: 
+	webhttpd.c:17
+autoscan: warning: missing AC_CHECK_HEADERS([sys/socket.h]) wanted by: 
+	webcam.c:22
+	netcam_ftp.c:16
+	netcam.c:45
+	netcam_wget.c:29
+	netcam.h:21
+autoscan: warning: missing AC_CHECK_HEADERS([sys/time.h]) wanted by: 
+	motion.h:33
+autoscan: warning: missing AC_CHECK_HEADERS([syslog.h]) wanted by: 
+	motion.h:30
+autoscan: warning: missing AC_CHECK_HEADERS([termios.h]) wanted by: 
+	track.c:10
+autoscan: warning: missing AC_CHECK_TYPES([ptrdiff_t]) wanted by: 
+	webhttpd.c:259
+autoscan: warning: missing AC_C_INLINE wanted by: 
+	rotate.c:111
+	rotate.c:200
+autoscan: warning: missing AC_FUNC_FORK wanted by: 
+	motion.c:1961
+	event.c:34
+autoscan: warning: missing AC_FUNC_MALLOC wanted by: 
+	video_common.c:410
+	video_common.c:411
+	video_common.c:412
+	netcam.c:132
+	jpegutils.c:535
+	jpegutils.c:536
+	motion.c:2491
+	webhttpd.c:255
+	webhttpd.c:1841
+	conf.c:38
+autoscan: warning: missing AC_FUNC_MMAP wanted by: 
+	video2.c:502
+	video.c:196
+	video_freebsd.c:691
+autoscan: warning: missing AC_FUNC_REALLOC wanted by: 
+	motion.c:2527
+autoscan: warning: missing AC_FUNC_STRERROR_R wanted by: 
+	motion.c:2828
+	motion.c:2830
+	motion.c:2832
+autoscan: warning: missing AC_PREREQ wanted by: 
+	autoscan
+autoscan: warning: missing AC_PROG_INSTALL wanted by: 
+	Makefile.in:14
+	Makefile.in:52
+	Makefile.in:54
+	Makefile.in:14
+autoscan: warning: missing AC_TYPE_INT64_T wanted by: 
+	ffmpeg.c:167
+	ffmpeg.c:167
+autoscan: warning: missing AC_TYPE_MODE_T wanted by: 
+	motion.c:2558
+autoscan: warning: missing AC_TYPE_OFF_T wanted by: 
+	video_freebsd.c:691
+autoscan: warning: missing AC_TYPE_SIZE_T wanted by: 
+	draw.c:1161
+	netcam.c:1003
+	netcam.c:1075
+	netcam.c:1076
+	netcam.c:1077
+	netcam.c:1457
+	netcam.c:2031
+	jpegutils.c:110
+	jpegutils.c:111
+	netcam_jpeg.c:65
+	netcam_jpeg.c:110
+	netcam_jpeg.c:111
+	motion.c:2489
+	motion.c:2517
+	motion.c:2650
+	motion.c:2650
+	ffmpeg.c:99
+	ffmpeg.c:151
+	ffmpeg.c:157
+	ffmpeg.c:163
+	ffmpeg.c:169
+	ffmpeg.c:175
+	motion.h:407
+	motion.h:408
+	motion.h:410
+	motion.h:410
+	netcam_wget.h:36
+	webhttpd.c:243
+	webhttpd.c:244
+	webhttpd.c:274
+	webhttpd.c:359
+	webhttpd.c:360
+	webhttpd.c:1872
+	webhttpd.c:2323
+	netcam.h:93
+	netcam.h:94
+	netcam.h:212
+	netcam.h:265
+	picture.c:24
+	picture.c:25
+	picture.c:55
+autoscan: warning: missing AC_TYPE_SSIZE_T wanted by: 
+	netcam.c:2031
+	netcam.c:2032
+	webhttpd.c:193
+	webhttpd.c:196
+	webhttpd.c:202
+	webhttpd.c:204
+	webhttpd.c:210
+	webhttpd.c:212
+	webhttpd.c:218
+	webhttpd.c:224
+	webhttpd.c:230
+	webhttpd.c:2113
+	netcam.h:265
+autoscan: warning: missing AC_TYPE_UINT16_T wanted by: 
+	video_common.c:19
+	video_common.c:302
+autoscan: warning: missing AC_TYPE_UINT32_T wanted by: 
+	video_common.c:20
+	video_common.c:297
+	video_common.c:298
+autoscan: warning: missing AC_TYPE_UINT8_T wanted by: 
+	video_common.c:18
+	video_common.c:294
+	video_common.c:295
+	video_common.c:296
+	video_common.c:297
+	video_common.c:307
+	video_common.c:315
+	video_common.c:406
+	jpegutils.c:89
+	ffmpeg.c:650
+	ffmpeg.c:655
+	ffmpeg.h:44
